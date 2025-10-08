@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93296007-4edc-4784-b6f2-07fcff506730" name="Changes" comment="second">
-      <change afterPath="$PROJECT_DIR$/products/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DigitalProducts/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DigitalProducts/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DigitalProducts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DigitalProducts/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +117,7 @@
       <updated>1759851948556</updated>
       <workItem from="1759851949957" duration="2108000" />
       <workItem from="1759855862750" duration="5489000" />
-      <workItem from="1759921299293" duration="5849000" />
+      <workItem from="1759921299293" duration="10643000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
