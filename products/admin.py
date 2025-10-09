@@ -12,7 +12,7 @@ class CategoryAdmin(admin.ModelAdmin):
 
 class FileInlineAdmin(admin.StackedInline):
     model=File
-    fields = ['file','title','is_enabled']
+    fields = ['file','title','file_type','is_enabled']
     extra = 0
 
 @admin.register(Product)
